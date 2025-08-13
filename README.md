@@ -25,7 +25,7 @@
 - KPI log: `warehouse_kpi.log`
 - Console prints for forklift and MQTT updates
 
-## Resume/Project Description
+## Project Description
 Warehouse/Logistics Digital Twin POC
 Built a digital twin of a warehouse using USD assets (Omniverse) and a Python extension to simulate forklift pathing and stacking. Integrated a mock MQTT stream for real-time updates of object states and inventory. Implemented KPI logging for throughput and travel time.
 
