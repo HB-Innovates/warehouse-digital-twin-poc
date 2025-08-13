@@ -1,0 +1,21 @@
+#usda 1.0
+
+def "Warehouse"
+{
+    def Cube "Rack"
+    {
+        double size = 5
+    }
+
+    def Cube "Pallet"
+    {
+        double size = 1.2
+    }
+
+    def Cylinder "Forklift"
+    {
+        double height = 2
+        double radius = 0.4
+    }
+}
+
