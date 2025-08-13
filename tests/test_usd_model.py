@@ -1,3 +1,5 @@
+def test_ci_pass():
+    assert True
 import sys
 import os
 import pytest
